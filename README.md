@@ -9,7 +9,7 @@ Você pode clonar o repositório e rodar:
 ```bash
 npm install
 ```
-
+Teste
 Depois clonar o arquivo `.env.example` para `.env.local`:
 ```bash
 cp .env.example .env.local
